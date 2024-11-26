@@ -1,21 +1,8 @@
 # Welcome to Navigo app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Navigo is a full-stack mobile application crafted with React Native and Appwrite.
+The app integrates Gemini API and Google Places API to provide precise and reliable 
+location-based features for users.
 
-## Get started
+https://github.com/user-attachments/assets/a479865c-545f-48e5-8288-961af16248fa
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-scan the QR code with Expo Go app to see the final result
-the app is fully configured to IOS devices, Android ver 
-is still under rivision
